@@ -8,12 +8,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/ButtonController.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Standard Assets/Utility/SimpleActivatorMenu.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/AnimationController.cs" />
+        <option value="$PROJECT_DIR$/Assets/ButtonController.cs" />
       </list>
     </option>
   </component>
@@ -64,7 +66,7 @@
       <option name="presentableId" value="Default" />
       <updated>1603789329907</updated>
       <workItem from="1603789343701" duration="178000" />
-      <workItem from="1603790674995" duration="855000" />
+      <workItem from="1603790674995" duration="2093000" />
     </task>
     <servers />
   </component>
